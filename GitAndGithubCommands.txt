@@ -1,0 +1,23 @@
+Git >> Version Control
+
+v1
+v2
+v3
+new v4
+
+
+>> It is distributed (on Cloud)
+>> Collaboration
+>> Tracking Changes
+>> Recovery
+
+https://git-scm.com/downloads
+
+GitHub
+BitBucket
+GitLabs
+GitPod
+
+ git config --global user.email "sameeradilsiddiqui@gmail.com"
+ >> git init
+ git remote add origin https://github.com/Sameeradilsiddiquis/Assignment1.git
