@@ -1,0 +1,7 @@
+#Taking input from users
+first_name = input("Enter Your First Name:")
+last_name = input("Enter Your Last Name:")
+
+full_name = first_name + " " + last_name
+
+print(f"\nHello,{full_name}! Welcome To The Python Program.")
